@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: [https://main--{repo}--{owner}.aem.page/](https://main--aem-boilerplate--epanya.aem.page/)
-- Live: [https://main--{repo}--{owner}.aem.live/](https://main--aem-boilerplate--epanya.aem.live/)
+- Preview: [https://main--aem-boilerplate}--epanya.aem.page/](https://main--aem-boilerplate--epanya.aem.page/)
+- Live: [https://main--aem-boilerplate--epanya.aem.live/](https://main--aem-boilerplate--epanya.aem.live/)
 
 ## Documentation
 
