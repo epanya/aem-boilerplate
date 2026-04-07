@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: [https://main--aem-boilerplate}--epanya.aem.page/](https://main--aem-boilerplate--epanya.aem.page/)
+- Preview: [https://main--aem-boilerplate--epanya.aem.page/](https://main--aem-boilerplate--epanya.aem.page/)
 - Live: [https://main--aem-boilerplate--epanya.aem.live/](https://main--aem-boilerplate--epanya.aem.live/)
 
 ## Documentation
